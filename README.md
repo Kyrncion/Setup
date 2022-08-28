@@ -2,6 +2,10 @@
 - Microsoft Teams
 - Discord
 
+## GitHub
+- Website
+- GIT
+
 ## IDEs
 - Visual Studio Code
 - Visual Studio
