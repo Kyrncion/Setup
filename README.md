@@ -1,10 +1,13 @@
-# MySetup
-An overview of IDE's, tools, and programs I use on a daily basis for programming, work, and communication
+# My Current Setup
+An overview of the IDEs, tools, and programs that I use every day for programming, work, and communication.
 
-# Communication
-## Discord
-Discord is my primarily platform for communication and I have recently been using [Better Discord](https://betterdiscord.app/) right now for Better Discord my plugins are listed [here](https://github.com/Kyrncion/MySetup/Discord/BetterDiscordPlugins).
-## Microsoft Teams
-# IDEs
-## Visual Studio Code
-## Visual Studio
+## Communication
+- Microsoft Teams
+- Discord
+
+## IDEs
+- Visual Studio Code
+- Visual Studio
+- IntelliJ IDEA
+
+Please keep in mind that my lists of items and programs I use are constantly changing; I will do my best to keep this list as up to date as possible.
