@@ -1,6 +1,3 @@
-# My Current Setup
-An overview of the IDEs, tools, and programs that I use every day for programming, work, and communication.
-
 ## Communication
 - Microsoft Teams
 - Discord
