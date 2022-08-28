@@ -1,5 +1,5 @@
 ## Communication
-- [Microsoft Teams](https://github.com/Kyrncion/Settings/tree/main/Communication/Microsoft_Teams)
+- [Microsoft Teams](https://github.com/Kyrncion/Settings/tree/main/Communication/Microsoft%20Teams)
 - [Discord](https://github.com/Kyrncion/Settings/tree/main/Communication/Discord)
 
 ## GitHub
