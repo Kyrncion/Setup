@@ -1,6 +1,6 @@
 ## Communication
-- Microsoft Teams
-- Discord
+- [Microsoft Teams](https://github.com/Kyrncion/Settings/tree/main/Communication/Microsoft_Teams)
+- [Discord](https://github.com/Kyrncion/Settings/tree/main/Communication/Discord)
 
 ## GitHub
 - Website
