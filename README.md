@@ -4,7 +4,7 @@
 
 ## GitHub
 - [Website](https://github.com/Kyrncion/Settings/tree/main/GitHub/GitHub.com)
-- [GIT]()
+- [GIT](https://github.com/Kyrncion/Settings/tree/main/GitHub/Git)
 
 ## IDEs
 - [Visual Studio Code]()
